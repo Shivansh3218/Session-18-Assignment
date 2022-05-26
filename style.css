@@ -53,7 +53,6 @@ a{
 }
 .submit{margin-top: 100px;
    align-self: center;
-   margin-left: 50px;
    color: aliceblue;
    font-size: 20px;
     padding: 20px;
@@ -99,14 +98,13 @@ footer{
     justify-content: space-around;
 }
 h4{
-  
-    width: 150px;
+  margin-top: 50px;
     height: 20px;
     font-size: 30px;
 }
-.image{
+.foot
+{
+    display: inline-block;
     margin-top: 50px;
-   
-    width: 20px;
-    height: 20px;
+
 }
